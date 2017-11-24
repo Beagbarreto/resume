@@ -1,0 +1,20 @@
+h1{
+  font-family: Apple Chancer cursive;
+}
+
+.tropical {
+  background-color: #f7325e;
+  color: #7dc410;
+  font-family: fantasy font;
+}
+
+.popular{
+    font-style: italic;
+    font-style: bold;
+}
+
+#exed {
+
+}
+
+Create styles for all of the elements in this section to set them apart from the rest of the content on the page. Use the selectors h2.introduction, p.introduction, and img.introduction for the styles.
