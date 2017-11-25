@@ -2,20 +2,7 @@ h1{
   font-family: Georgia;
 }
 
-.tropical {
-  background-color: #f7325e;
-  color: #7dc410;
-  font-family: fantasy font;
-}
-
-.popular{
-    font-style: italic;
-    font-style: bold;
-}
-
 ul.menu{
-  position: fixed;
-  top: 0;
   list-style-type: none;
   margin: 0;
   padding: 0;
@@ -40,7 +27,7 @@ li a.menu {
     text-decoration: none;
 }
 
-li a:hover {
+li a.menu:hover {
     background-color: #111;
     font-family: Courier;
     font-style: italic;
@@ -67,8 +54,3 @@ strong{
  em {
    font-style: bold;
  }
-
-img {
-  float: right;
-}
-Create styles for all of the elements in this section to set them apart from the rest of the content on the page. Use the selectors h2.introduction, p.introduction, and img.introduction for the styles.
