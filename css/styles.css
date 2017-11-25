@@ -1,5 +1,5 @@
 h1{
-  font-family: Didact Gothic Font;
+  font-family: Georgia;
 }
 
 .tropical {
@@ -13,29 +13,25 @@ h1{
     font-style: bold;
 }
 
-.active {
-  background-color: #4CAF50;
-}
-
-ul {
+ul.menu{
   position: fixed;
   top: 0;
   list-style-type: none;
   margin: 0;
   padding: 0;
-  overflow: hidden;
   width: 100%;
   border: 1px solid #e7e7e7;
-  background-color: #f3f3f3;
+  background-color: #1a1c21;
 }
 
-li {
+li.menu {
   display: inline;
   float: left;
   text-align: center;
+  font-family: arial;
 }
 
-li a {
+li a.menu {
     display: block;
     color: white;
     text-align: center;
@@ -46,6 +42,8 @@ li a {
 
 li a:hover {
     background-color: #111;
+    font-family: Courier;
+    font-style: italic;
     color: orange;
 }
 
