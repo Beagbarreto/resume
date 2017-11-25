@@ -1,5 +1,20 @@
+#header {
+  background: black url(/images/javasynth.jpg) center no-repeat;
+}
+
 h1{
-  font-family: Georgia;
+  font-family: Arial;
+  text-align: center;
+  font-size: 75px;
+}
+.red{
+  color: #d3220a;
+}
+
+h3 {
+  color: #d3220a;
+  font-family: Arial;
+  font-size: 16px;
 }
 
 ul.menu{
