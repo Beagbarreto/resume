@@ -4,8 +4,8 @@
 
 h1{
   font-family: Arial;
-  text-align: center;
-  font-size: 75px;
+  text-align: left;
+  font-size: 65px;
 }
 .red{
   color: #d3220a;
@@ -15,6 +15,14 @@ h3 {
   color: #d3220a;
   font-family: Arial;
   font-size: 16px;
+}
+
+p.height {
+  line-height: 65%;
+}
+
+.small {
+  font-size: 10px;
 }
 
 ul.menu{
@@ -49,18 +57,6 @@ li a.menu:hover {
     color: orange;
 }
 
-.active {
-    background-color: #4CAF50;
-    color: white;
-  }
-
-.intro {
-  font-style: italic;
-}
-
-p.intro{
-  font-size: 12px;
-}
 
 strong{
   font-style: italic;
